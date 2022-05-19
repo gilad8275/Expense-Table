@@ -1,2 +1,2 @@
 # Expense-Table
-This project is build table for my expenses
+In this project I'm building a table that summarizes my expenses.
